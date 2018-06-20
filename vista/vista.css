@@ -1,0 +1,153 @@
+body {
+    background-image: url("../vista/imagenes/fondo.jpg");
+    background-size: cover;
+}
+
+#portada {
+    width: 1000px;
+    border-radius: 22px;
+    height: 270px;
+    margin-top: 23px;
+    margin-left: 6.5%;
+}
+
+#barra {
+    height: 50px;
+    width: 158px;
+    border-radius: 20px;
+    background-image: url("../vista/imagenes/fondo3 - copia.jpg");
+    background-size: cover;
+}
+
+.tabla2 {
+    margin-top: 20px;
+    margin-left: 7%;
+}
+
+#unidos {
+    width: 1100px;
+    background-image: url("../vista/imagenes/fondo2 - copia.jpg");
+    background-size: cover;
+    height: 50px;
+    margin-top: 15px;
+    margin-left: 15px;
+    border-radius: 10px;
+}
+
+#letrasUnidos {
+    width: 500px;
+    height: 52px;
+}
+
+#tabla3 {
+    width: 80px;
+    border: 0px;
+    padding: 20px;
+}
+
+#columna {
+    width: 10px;
+    background-image: url("../vista/imagenes/fondo2 - copia.jpg");
+    background-size: cover;
+    border-radius: 30px;
+    padding: 13px;
+    padding-left: 50px;
+}
+
+#componentes {
+    height: 70px;
+    width: 70px;
+    border-radius: 10px;
+    margin-top: 2px;
+}
+
+#texto {
+    width: 1000px;
+    height: 47px;
+    font-size: 18PX;
+}
+
+p {
+    text-align: justify;
+}
+
+#piePagina1 {
+    width: 1200px;
+    height: 80px;
+    margin-left: 10px;
+    margin-top: 5px;
+    border-radius: 20px;
+}
+.piePagina2 {
+    width: 600px;
+    margin-top: 5px;
+}
+.letras{
+    color: white!important;
+}
+.letras2{
+    color: black;
+}
+.imgs {
+    width: 626%;
+    background-image: url("../vista/imagenes/fondo2.jpg");
+    background-size: cover;
+    border-radius: 20px;
+}
+.contacto{
+    margin-left: 15px;
+}
+#ok {
+    padding-left: 70px;
+}
+#jcombox{
+
+    background-image: url("../vista/imagenes/fondo.jpg");
+    border-radius: 10px;
+    width:50%;
+    
+}
+#tablaCitas1{
+    width: 596px;
+}
+#btnenviar{
+    background-image: url("../vista/imagenes/fondo.jpg");
+    border-radius: 10px;
+    height: 80px;
+    width: 150px;
+}
+#Portafolio{
+    width: 70%;
+    height: 70%;
+    border-radius:20px; 
+    color: black;
+}
+#imgSiau{
+    height: 516px;
+    margin-left: 25px;
+}
+#textosiau1{
+width: 400px;
+border-radius: 20px;
+margin-left: 50px;
+}
+#textosiau2{
+    width: 600px;
+    height: 300px;
+    border-radius: 20px;
+    margin-left: 50px;
+}
+#imgHistoria{
+    height: 140px;
+    width: 140x;
+    border-radius: 10px;
+}
+#tablaHistoria{
+margin-top: 20px;
+margin-left: 8px;
+}
+#tablaHistoria2{
+margin-top: 20px;
+margin-left: 80px;
+justify-content: baseline;
+}
